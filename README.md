@@ -16,6 +16,11 @@
 
   <!-- SCREENSHOTS -->
   <h2 id="screenshots">📸 Screenshots</h2>
+   <div class="screenshot-grid">
+    <figure>
+      <img src="examples/ytb-theater-md.png" alt="Before theater mode — default YouTube player with square corners and black bars">
+    </figure>
+  </div>
 
   <h3>Theater Mode — Before vs After</h3>
   <div class="screenshot-grid">
